@@ -18,7 +18,7 @@ I'm Dale Rogers, a service designer at Atturra Cloud and Business Solutions, bas
 - GitHub Pages for hosting the website.
 
 #### Usage
-1. Clone this repository: `git clone https://github.com/your-username/dalerogers.com.au.git`
+1. Clone this repository: `git clone https://github.com/duds/dalerogers.com.au.git`
 2. Customize the Ghost theme, templates, and content to reflect your personal portfolio.
 3. Push your changes to your GitHub repository.
 4. Enable GitHub Pages to host your website.
